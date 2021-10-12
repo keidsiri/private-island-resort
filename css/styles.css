@@ -1,0 +1,22 @@
+h1  {
+  color: chartreuse;
+  font-family: fantasy;
+  font-weight: 800;
+}
+
+h2  {
+  color: darkorange;
+  font-family: sans-serif;
+  font-style: oblique;
+}
+
+h3  {
+  color: blue;
+  font-family: cursive;
+  font-weight: 600;
+  font-size: 30px;
+}
+
+body  {
+  background-color: aqua;
+}
