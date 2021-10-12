@@ -1,12 +1,12 @@
 h1  {
-  color: chartreuse;
+  color: black;
   font-family: fantasy;
   font-weight: 800;
 }
 
 h2  {
   color: darkorange;
-  font-family: sans-serif;
+  font-family: Arial, Helvetica, sans-serif;
   font-style: oblique;
 }
 
@@ -18,5 +18,12 @@ h3  {
 }
 
 body  {
-  background-color: aqua;
+  background-color: aquamarine;
+  background-image: 
+    url("https://images.unsplash.com/photo-1622396480958-37710377a507?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=987&q=80");
+}
+
+p {
+  font-size: 40px;
+  color: red;
 }
